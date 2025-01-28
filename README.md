@@ -1,5 +1,4 @@
-<img width="100%" height="250" src="cover2.webp" height="auto"/>
-
+<img width="100%" src="cover2.webp" style="height: auto;"/>
 
 <h2 align="center">Hi 👋! <br>I'm Abrar Zahin Raihan. <br>Currently a sophomore studying CSE @ BUET</h2>
 
