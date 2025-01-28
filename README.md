@@ -232,9 +232,9 @@
 
 | Competition Name | Team Name | Team Members | Achievement | Project |
 | --------------- | --------- | ------------ | ----------- | ------- |
-| [Tech Innovate 2024](https://example.com/comp1) | [Team Alpha](https://example.com/team1) | [John](https://github.com/john), [Sarah](https://github.com/sarah), [Mike](https://github.com/mike) | [First Place Winner](https://example.com/achievement1) | [EcoTrack](https://github.com/project1) |
-| [Global Hack 2024](https://example.com/comp2) | [Code Warriors](https://example.com/team2) | [Emma](https://github.com/emma), [Alex](https://github.com/alex), [Dave](https://github.com/dave) | [Runner Up](https://example.com/achievement2) | [SmartHealth](https://github.com/project2) |
-| [Data Science Cup](https://example.com/comp3) | [Data Ninjas](https://example.com/team3) | [Lisa](https://github.com/lisa), [Tom](https://github.com/tom), [Ana](https://github.com/ana) | [Third Place](https://example.com/achievement3) | [AI Vision](https://github.com/project3) |
+| [BUET CSE Fest Hackathon 2024 (Microservices and DevOps Category)](https://www.facebook.com/events/1064191408643856/) | Team 95152 | [Ruwad Naswan](https://github.com/john), [Mehedi Hasan](https://github.com/sarah)| [First Runner-up](https://www.linkedin.com/posts/ruwad-naswan-612673245_hackathon-microservices-devops-activity-7262077014969364482-u8IX?utm_source=share&utm_medium=member_desktop) | [DevOps Project Backend](https://github.com/azraihan/bcf2024-microservice-devops-team-95152-buet21), [DevOps Project Frontend](https://github.com/azraihan/cse_fest_2024_devops_frontend)|
+| [Therap Javafest 2024](https://therapbd.com/) | Apex Bytes | [Ruwad Naswan](https://github.com/emma)| [Top 10 finalist](https://www.linkedin.com/posts/ruwad-naswan-612673245_java-ai-aws-activity-7257962590155202563-6wwO?utm_source=share&utm_medium=member_desktop) | [CodeSprout](https://github.com/azraihan/codesprout-therap-javafest-apex-bytes) |
+| [Code Samurai 2024](https://www.facebook.com/CodeSamuraiBD) | BUET SYNTAX_ERROR | [Ruwad Naswan](https://github.com/lisa), [Nafess Ashraf](https://github.com/tom)| [10th place](https://www.linkedin.com/posts/ruwad-naswan-612673245_codesamurai-hackathon-teambuet-activity-7217543142739230720-krY3?utm_source=share&utm_medium=member_desktop) | [EcoSync]() |
 
 ###
 
