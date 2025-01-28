@@ -220,6 +220,24 @@
 
 ###
 
+###
+
+<!-- Tables -->
+
+<div align="center">
+
+<h1>Hackathons</h1>
+
+</div>
+
+| Competition Name | Team Name | Team Members | Achievement | Project |
+| --------------- | --------- | ------------ | ----------- | ------- |
+| [Tech Innovate 2024](https://example.com/comp1) | [Team Alpha](https://example.com/team1) | [John](https://github.com/john), [Sarah](https://github.com/sarah), [Mike](https://github.com/mike) | [First Place Winner](https://example.com/achievement1) | [EcoTrack](https://github.com/project1) |
+| [Global Hack 2024](https://example.com/comp2) | [Code Warriors](https://example.com/team2) | [Emma](https://github.com/emma), [Alex](https://github.com/alex), [Dave](https://github.com/dave) | [Runner Up](https://example.com/achievement2) | [SmartHealth](https://github.com/project2) |
+| [Data Science Cup](https://example.com/comp3) | [Data Ninjas](https://example.com/team3) | [Lisa](https://github.com/lisa), [Tom](https://github.com/tom), [Ana](https://github.com/ana) | [Third Place](https://example.com/achievement3) | [AI Vision](https://github.com/project3) |
+
+###
+
 
 ###
 
