@@ -236,10 +236,10 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="left">
+      <td width="100%" align="left">
         <img alt="music" src="music.gif"/>
       </td>
-      <td width="50%" align="right">
+      <td width="100%" align="right">
         <div>
           <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6">
             <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
