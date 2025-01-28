@@ -214,7 +214,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 100px; padding: 0 50px;">
   <img align="left" alt="music" style="height: auto; margin-right: 50px;" src="music.gif" />
-  <div align="center" style="margin-left: 50px;">
+  <div align="center" style="width: 50%;">
     <br><br>
     <br><br>
     <br><br>
