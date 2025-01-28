@@ -30,7 +30,7 @@
 ###
 
 <div align="center">
-  <h1>Academic Coursework</h1>
+  <h1>🎓 Academic Coursework</h1>
   <a href="https://github.com/azraihan/CSE_coursework" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Academic%20Repository&logo=github&label=BUET%20CSE&color=4DC71F&logoColor=white&labelColor=636e7b&style=for-the-badge" height="35" alt="academic repository"  />
   </a>
@@ -123,7 +123,7 @@
 
 ###
 
-<div align="center"> <h1>Tech Stack</h1></div>
+<div align="center"> <h1>🛠️ Tech Stack</h1></div>
 
 <div align="left">
 
@@ -226,7 +226,7 @@
 
 <div align="center">
 
-<h1>Hackathons</h1>
+<h1>🥇 Hackathons</h1>
 
 </div>
 
@@ -241,7 +241,7 @@
 
 ###
 
-<div align="center"> <h1>Socials</h1></div>
+<div align="center"> <h1>🔗 Socials</h1></div>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img align="left" alt="music" style="height: auto;" src="music.gif" />
