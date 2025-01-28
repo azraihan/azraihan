@@ -14,6 +14,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=azraihan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div align="left">
+  <h3>Academic Coursework</h3>
+  <a href="https://github.com/azraihan/CSE_coursework" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Academic%20Repository&logo=github&label=BUET%20CSE&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="academic repository"  />
+  </a>
+</div>
+
+
 <!-- ###
 
 <img align="right" height="170" src="https://steamuserimages-a.akamaihd.net/ugc/83716862578182283/8D6E50C5B11E1237B9E7234FB39570A921747F5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
