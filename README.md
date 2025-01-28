@@ -214,7 +214,6 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img align="left" alt="music" style="height: auto;" src="music.gif" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <div align="center">
     <br><br>
     <br><br>
