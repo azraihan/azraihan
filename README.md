@@ -234,7 +234,7 @@
 </div> -->
 
 <div style="display: flex; justify-content: space-between; align-items: center; height: 150px;">
-  <img alt="music" style="height: 100%;" src="/api/placeholder/150/150" />
+  <img alt="music" style="height: 100%;" src="music.gif" />
   <div style="display: flex; align-items: center; height: 100%; padding: 20px;">
     <div style="display: flex; gap: 10px;">
       <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6" target="_blank">
