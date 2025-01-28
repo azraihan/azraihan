@@ -210,11 +210,9 @@
 
 ###
 
-<div align="center"> <h1>Socials</h1></div>
-
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img align="left" alt="music" style="height: auto;" src="music.gif" />
-  <div align="right" style="display: flex; flex-direction: column; align-items: center;justify-content: center;">
+  <div align="center">
     <br><br>
     <br><br>
     <br><br>
