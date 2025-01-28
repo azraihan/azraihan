@@ -212,7 +212,7 @@
 
 <div align="center"> <h1>Socials</h1></div>
 
-<!-- <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img align="left" alt="music" style="height: auto;" src="music.gif" />
   <div align="right">
     <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6" target="_blank">
@@ -230,29 +230,6 @@
     <a href="https://www.facebook.com/profile.php?id=100085682354734" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
     </a>
-  </div>
-</div> -->
-
-<div align="center">
-  <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img align="left" alt="music" src="music.gif" style="margin-right: 20px" />
-    <div style="display: flex; flex-direction: column; gap: 10px; margin-left: auto; align-self: center;">
-      <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6">
-        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-      </a>
-      <a href="discordapp.com/users/592036778651942922">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-      </a>
-      <a href="mailto:zaheenraian@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-      </a>
-      <a href="https://www.linkedin.com/in/abrar-zahin-raihan-881612331/">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-      </a>
-      <a href="https://www.facebook.com/profile.php?id=100085682354734">
-        <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-      </a>
-    </div>
   </div>
 </div>
 
