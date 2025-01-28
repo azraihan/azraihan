@@ -235,7 +235,7 @@
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center; height: 150px;">
   <img align="left" alt="music" style="height: 100%;" src="music.gif" />
-  <div style="display: flex; align-items: center; justify-content: center; flex-grow: 1; height: 100%; gap: 10px;">
+  <div style="display: flex; align-items: center; height: 100%; gap: 10px;">
     <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
