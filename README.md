@@ -19,7 +19,7 @@
 <div align="left">
   <h3>Academic Coursework</h3>
   <a href="https://github.com/azraihan/CSE_coursework" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Academic%20Repository&logo=github&label=BUET%20CSE&color=4DC71F&logoColor=white&labelColor=0D1117&style=for-the-badge" height="35" alt="academic repository"  />
+    <img src="https://img.shields.io/static/v1?message=Academic%20Repository&logo=github&label=BUET%20CSE&color=4DC71F&logoColor=white&labelColor=636e7b&style=for-the-badge" height="35" alt="academic repository"  />
   </a>
 </div>
 
