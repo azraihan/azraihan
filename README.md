@@ -233,24 +233,41 @@
   </div>
 </div> -->
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <img align="left" alt="music" style="height: auto;" src="music.gif" />
-  <div align="right" style="display: flex; flex-direction: column; gap: 10px;">
-    <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-    </a>
-    <a href="discordapp.com/users/592036778651942922" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-    </a>
-    <a href="mailto:zaheenraian@gmail.com" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-    </a>
-    <a href="https://www.linkedin.com/in/abrar-zahin-raihan-881612331/" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100085682354734" target="_blank">
-      <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
-    </a>
+<div align="center">
+  <div style="width: 100%; display: inline-block;">
+    <!-- Left side image -->
+    <div style="float: left; width: 50%;">
+      <img alt="music" width="250" src="music.gif" />
+    </div>
+    
+    <!-- Right side badges -->
+    <div style="float: right; width: 50%;">
+      <p align="center">
+        <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="discordapp.com/users/592036778651942922" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="mailto:zaheenraian@gmail.com" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/abrar-zahin-raihan-881612331/" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.facebook.com/profile.php?id=100085682354734" target="_blank">
+          <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+        </a>
+      </p>
+    </div>
   </div>
 </div>
 
