@@ -237,7 +237,7 @@
   <table>
     <tr>
       <td width="50%">
-        <img align="center" alt="music" height="150" src="music.gif"/>
+        <img align="center" alt="music" src="music.gif"/>
       </td>
       <td width="50%">
         <div align="center">
