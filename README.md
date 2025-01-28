@@ -219,6 +219,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/azraihan/azraihan/output/snake.svg?palette=github-dark" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/azraihan/azraihan/output/snake-dark.svg?palette=github-dark" alt="Snake animation" />
 
 ###
