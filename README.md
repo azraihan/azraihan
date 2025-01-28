@@ -166,9 +166,9 @@
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
 
- <!-- <div align="right" height="170">
+ <div align="right" height="170">
  <img src="https://steamuserimages-a.akamaihd.net/ugc/83716862578182283/8D6E50C5B11E1237B9E7234FB39570A921747F5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="200" align="right"/>
-</div> -->
+</div>
  
  <h3>Databases</h3>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
