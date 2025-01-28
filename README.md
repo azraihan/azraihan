@@ -16,6 +16,30 @@
 
 ###
 
+<!-- Achievement Badges -->
+<div align="center">
+  <h1>Trophies</h1>
+
+  <!-- Row 1 -->
+  <img src="https://img.shields.io/badge/MultiLanguage-Rainbow_Lang_User_38pt-%23D4ADFC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQyIDAtOC0zLjU4LTgtOHMzLjU4LTggOC04IDggMy41OCA4IDgtMy41OCA4LTggOHoiLz48L3N2Zz4=" />
+  <img src="https://img.shields.io/badge/Commits-Super_Committer_1.4kpt-%23FFD700?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Followers-Hyper_Celebrity_201pt-%23FFD700?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositories-Super_Repo_Creator_85pt-%23FFD700?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Row 2 -->
+  <img src="https://img.shields.io/badge/Experience-Experienced_Dev_19pt-%23808080?style=for-the-badge&logo=dev.to&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stars-You_are_a_Star_35pt-%23808080?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Issues-High_Issuer_32pt-%23808080?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PullRequest-High_Puller_41pt-%23808080?style=for-the-badge&logo=github&logoColor=white" />
+
+  <!-- Row 3 -->
+  <img src="https://img.shields.io/badge/Reviews-New_Reviewer_2pt-%23C0C0C0?style=for-the-badge&logo=github&logoColor=white" />
+
+</div>
+
+
+###
+
 <div align="center">
   <h1>Academic Coursework</h1>
   <a href="https://github.com/azraihan/CSE_coursework" target="_blank">
