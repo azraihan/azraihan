@@ -166,9 +166,9 @@
  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="30" alt="jenkins logo"  />
 
- <div align="right" height="170">
+ <!-- <div align="right" height="170">
  <img src="https://steamuserimages-a.akamaihd.net/ugc/83716862578182283/8D6E50C5B11E1237B9E7234FB39570A921747F5F/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" height="200" align="right"/>
-</div>
+</div> -->
  
  <h3>Databases</h3>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
@@ -213,12 +213,12 @@
 <div align="center"> <h1>Socials</h1></div>
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img align="left" alt="music" style="height: auto;" src="music.gif" />
+  <!-- <img align="left" alt="music" style="height: auto;" src="music.gif" /> -->
   <div align="center">
+    <!-- <br><br>
     <br><br>
     <br><br>
-    <br><br>
-    <br><br>
+    <br><br> -->
     <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
     </a>
