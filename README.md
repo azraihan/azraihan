@@ -212,9 +212,9 @@
 
 <div align="center"> <h1>Socials</h1></div>
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; gap: 100px; padding: 0 50px;">
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
   <img align="left" alt="music" style="height: auto; margin-right: 50px;" src="music.gif" />
-  <div align="center" style="width: 50%;">
+  <div align="center" style="width: 300px;">
     <br><br>
     <br><br>
     <br><br>
