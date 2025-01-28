@@ -231,7 +231,7 @@
 </div> -->
 
 <div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-  <img align="left" alt="Your Name" width="200" src="music,gif" />
+  <img align="left" alt="Your Name" width="200" src="music.gif" />
   <div align="right">
     <a href="https://www.instagram.com/zahin.raihan?igsh=N2s1dDNvN3JkeGx6" target="_blank">
       <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
