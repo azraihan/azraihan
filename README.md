@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=azraihan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h2 align="center">Hi 👋! <br>I'm Abrar Zahin Raihan. <br>Currently a junior studying CSE @ BUET</h2>
+<h2 align="center">Hi 👋! <br>I'm Abrar Zahin Raihan. <br>Currently in third-year studying CSE @ BUET</h2>
 
 ###
 
