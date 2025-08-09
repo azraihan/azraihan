@@ -161,7 +161,7 @@
 
 | Competition Name | Team Name | Team Members | Achievement | Project |
 | --------------- | --------- | ------------ | ----------- | ------- |
-| [IEEE Vip Cup 2025](https://2025.ieeeicip.org/ieee-sps-video-and-image-processing-cup/) | NeuronX | [Ruwad Naswan](https://github.com/rwd51), [Mehedi Khan](https://github.com/mehedikhan72), [Sadik Mahamud Shakshor](), [Sadman Sakib]() | [Honorable Mention](https://www.linkedin.com/posts/ruwad-naswan-612673245_ieeevipcup2025-computervision-multimodalai-activity-7354211806183051265-3hxE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU) | [Project]() |
+| [IEEE Vip Cup 2025](https://2025.ieeeicip.org/ieee-sps-video-and-image-processing-cup/) | NeuronX | [Ruwad Naswan](https://github.com/rwd51), [Mehedi Khan](https://github.com/mehedikhan72), [Sadik Mahamud Shakshor](#), [Sadman Sakib](#) | [Honorable Mention](https://www.linkedin.com/posts/ruwad-naswan-612673245_ieeevipcup2025-computervision-multimodalai-activity-7354211806183051265-3hxE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU) | [Project](#) |
 
 ###
 
