@@ -161,7 +161,7 @@
 
 | Competition Name | Team Name | Team Members | Achievement | Project |
 | --------------- | --------- | ------------ | ----------- | ------- |
-| [CUET ETE Televerse 1.0 : AIFication 2025 (Datathon)](https://2025.ieeeicip.org/ieee-sps-video-and-image-processing-cup/) | DejaView | [Ruwad Naswan](https://github.com/rwd51), [Shadab Tanjeed](#)| [First Runner-up](https://www.linkedin.com/posts/ruwad-naswan-612673245_nlp-speechrecognition-asr-activity-7398427583853334528-A7oV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU) | [Project](#) |
+| [CUET ETE Televerse 1.0 : AIFication 2025 (Datathon)](https://2025.ieeeicip.org/ieee-sps-video-and-image-processing-cup/) | DejaView | [Ruwad Naswan](https://github.com/rwd51), [Shadab Tanjeed](#)| [First Runner-up](https://www.linkedin.com/posts/ruwad-naswan-612673245_nlp-speechrecognition-asr-activity-7398427583853334528-A7oV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU) | [Project](https://github.com/azraihan/Team-DejaView---CUET-ETE-Televerse-AIFication-2025-Datathon-Solution) |
 | [IEEE Vip Cup 2025](https://2025.ieeeicip.org/ieee-sps-video-and-image-processing-cup/) | NeuronX | [Ruwad Naswan](https://github.com/rwd51), [Mehedi Khan](https://github.com/mehedikhan72), [Sadik Mahamud Shakshor](#), [Sadman Sakib](#) | [Champions](https://www.linkedin.com/posts/abrar-zahin-raihan-881612331_ieee-vipcup2025-signalprocessing-activity-7374818582821703680-hK9h?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFOP-2EBUcYjaSSzqfP2DuWCTOKgWFCIVgU) | [Project](#) |
 
 ###
